@@ -1,4 +1,4 @@
-## SkeletonPlaceholder
+## SkeletonPlaceholder (for expo!)
 
 SkeletonPlaceholder is a React Native library to easily create an amazing loading effect with FlexBox.<br/>
 Android and iOS
