@@ -1,5 +1,5 @@
 import MaskedView from '@react-native-masked-view/masked-view';
-import LinearGradient from 'expo-linear-gradient';
+import {LinearGradient} from 'expo-linear-gradient';
 import * as React from 'react';
 import {
   Animated,
